@@ -48,6 +48,7 @@ namespace Task4
             }
 
             Console.WriteLine($"1) {count1} 2) {count2}");
+            Console.ReadKey();
         }
     }
 }
